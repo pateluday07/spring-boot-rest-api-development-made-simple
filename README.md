@@ -34,4 +34,4 @@ This project is a simple REST API for managing employees, built with Spring Boot
 
 You can use the following Postman collection to test the API:
 
-[Postman Collection](https://www.postman.com/planetary-water-884580/workspace/uday-s-public-workspace/collection/1581944-9d9daf7b-a58b-4ece-861d-a367b94b8500?action=share&creator=1581944)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/planetary-water-884580/workspace/uday-s-public-workspace/collection/1581944-9d9daf7b-a58b-4ece-861d-a367b94b8500?action=share&creator=1581944)
